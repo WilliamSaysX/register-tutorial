@@ -89,11 +89,13 @@ Regular credit cards might not work for subscribing to services like ChatGPT Plu
 
 <details>
 <summary>2. How to prevent account suspension?</summary>
+
 Please refer to our [AI Services Account Protection Guide](tutorials/ai-2025-防封号终极指南.md) for proper usage of proxies and browser environments.
 </details>
 
 <details>
 <summary>3. What if I encounter verification issues?</summary>
+
 Check our [Claude AI Registration Without Verification](tutorials/claude-2025-无验证码注册教程.md) for recommended solutions.
 </details>
 

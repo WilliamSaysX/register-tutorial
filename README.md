@@ -35,7 +35,7 @@
 - 进阶使用
   - [ChatGPT Plus 虚拟卡升级教程](tutorials/chatgpt-2025-plus虚拟卡升级教程.md)
   - [ChatGPT Plus 升级指南](tutorials/chatgpt-2025-plus升级指南.md)
-  - [AI 服务防封号终极指南](tutorials/ai-2025-防封号终极指南.md)
+  - [AI 服务防封号终极指南](tutorials/ai-chatgpt-claude-2025-防封号降智终极指南.md)
 </details>
 
 <details>
@@ -86,17 +86,20 @@
 
 <details>
 <summary>1. 为什么需要虚拟信用卡？</summary>
+
 国内用户订阅 ChatGPT Plus、Claude Pro 等服务时，普通信用卡可能无法完成支付。虚拟信用卡提供了可靠的支付解决方案。
 </details>
 
 <details>
 <summary>2. 如何避免账号被封？</summary>
-请参考[AI 服务防封号终极指南](tutorials/ai-2025-防封号终极指南.md)，合理使用代理和浏览器环境。
+
+请参考 [AI 服务防封号终极指南](tutorials/ai-chatgpt-claude-2025-防封号降智终极指南.md)，合理使用代理和浏览器环境。
 </details>
 
 <details>
 <summary>3. 注册遇到验证码问题怎么办？</summary>
-可以参考[Claude AI 无验证码注册教程](tutorials/claude-2025-无验证码注册教程.md)，使用推荐的接码平台。
+
+可以参考 [Claude AI 无验证码注册教程](tutorials/claude-2025-无验证码注册教程.md)，使用推荐的接码平台。
 </details>
 
 ## ⚠️ 免责声明
