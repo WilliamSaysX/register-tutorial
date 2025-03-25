@@ -10,13 +10,22 @@
   - [如何使用 ChatGPT？最简单易懂的 ChatGPT 入门教程](src/如何使用%20ChatGPT？最简单易懂的%20ChatGPT%20入门教程.md)
   - [如何在手机上使用 ChatGPT？](src/如何在手机上使用%20ChatGPT？一键体验%20GPT-4.0%20的完整教程.md)
   - [2025年 ChatGPT Plus 升级指南](src/2025年最新教程：如何使用虚拟信用卡升级到%20ChatGPT%20Plus%20(GPT-4.0).md)
+  - [防止 ChatGPT 和 Claude 被封和降智的终极方案](src/【2025最新】防止ChatGPT和Claude被封和降智的终极方案.md)
+  - [ChatGPT注册太繁琐？快速一键搞定官方GPT账号！](src/ChatGPT注册太繁琐？教你快速一键搞定官方GPT账号！.md)
+  - [2025年 ChatGPT 账号一键注册与使用教程](src/2025年%20ChatGPT%20账号一键注册与使用教程.md)
+  - [2025年3月最新国内ChatGPT账号注册教程](src/2025年3月最新国内ChatGPT账号注册教程，无需手机验证码.md)
+  - [国内如何升级到GPT-4？用野卡一键订阅ChatGPT Plus指南](src/【保姆级教程】国内如何升级到GPT-4？用野卡(WildCard)一键订阅ChatGPT%20Plus指南.md)
+  - [教你轻松一键注册 ChatGPT 官方账号！](src/【完全指南】教你轻松一键注册%20ChatGPT%20官方账号！.md)
 
 - Claude AI 相关教程
-  - [Claude AI 使用指南](src/Claude%20AI%20使用指南：如何免费体验%20Claude%20AI？.md)
-  - [2025年 Claude 注册教程](src/2025年国内如何注册%20Claude%20账号教程（无需%20SMS%20接码平台）.md)
+  - [Claude AI 使用指南：如何免费体验 Claude AI？](src/Claude%20AI%20使用指南：如何免费体验%20Claude%20AI？.md)
+  - [2025年国内如何注册 Claude 账号教程](src/2025年国内如何注册%20Claude%20账号教程（无需%20SMS%20接码平台）.md)
+  - [Claude 注册防封号教程](src/【2025最新】Claude注册防封号.md)
+  - [注册Claude教程：解决无法发送手机验证码的问题](src/【2025亲测】注册Claude教程：解决无法发送手机验证码的问题.md)
 
 ### 支付与虚拟信用卡
 - [野卡(WildCard)虚拟信用卡详细教程](src/【2025更新】野卡(WildCard)虚拟信用卡详细注册教程.md)
+- [野卡(WildCard) 虚拟信用卡新手教程（保姆级）](src/野卡(WildCard)%20虚拟信用卡新手教程（保姆级）.md)
 - [支持 USDT 的虚拟信用卡平台推荐](src/【2025推荐】支持%20USDT%20的虚拟信用卡与实体卡开卡平台.md)
 - [开发者 OpenAI 支付解决方案](src/国内开发者如何解决%20OpenAI%20信用卡付款问题.md)
 
@@ -24,6 +33,7 @@
 - [Gmail 邮箱注册指南](src/【2025更新】Gmail谷歌邮箱注册指南（手动注册+一键注册）.md)
 - [YouTube Premium 订阅指南](src/【新手小白】如何订阅%20YouTube%20Premium？2025%20最新订阅指南.md)
 - [OnlyFans 注册与订阅教程](src/如何注册%20OnlyFans%20与订阅教程.md)
+- [OnlyFans 订阅教程：使用虚拟信用卡支付](src/OnlyFans%20订阅教程：使用虚拟信用卡支付.md)
 - [FanBOX 创作者支持指南](src/如何在%20FanBOX%20支持喜欢的创作者？没有信用卡也能轻松赞助！.md)
 
 ## 🔄 更新频率
